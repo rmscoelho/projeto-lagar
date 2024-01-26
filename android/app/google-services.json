@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "399755679720",
+    "firebase_url": "https://lagar-proj1819.firebaseio.com",
+    "project_id": "lagar-proj1819",
+    "storage_bucket": "lagar-proj1819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399755679720:android:db7627484bb93d0f",
+        "android_client_info": {
+          "package_name": "com.lagar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399755679720-rfbhusk2jjtkid69fv3hbks82237uu94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lagar",
+            "certificate_hash": "af89f44a4db1bb8a8e4fb88796a850b6a686ed8c"
+          }
+        },
+        {
+          "client_id": "399755679720-67gtr6h3irffniqr5bnlvb12ieucbg09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj0hNxZe_0xfvwrw9aMdC4tj357FxJUYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399755679720-67gtr6h3irffniqr5bnlvb12ieucbg09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
